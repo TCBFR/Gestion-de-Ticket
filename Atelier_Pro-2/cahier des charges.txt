@@ -1,0 +1,5 @@
+le tech peut clos / en cours
+le User peut cloture et ou retourner en cours
+
+pour l'Agent municipaux, il peut clos
+le secrétaire peut cloturer et ou en cours
